@@ -1,4 +1,6 @@
+<div align="center">
 ### Hi , Its Faizan here👋
+</div>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=faizanulhassan32&color=brightgreen)](https://github.com/faizanulhassan32)
 
@@ -12,4 +14,6 @@ a web developer aiming to create innovative and user-friendly digital experience
 
 🔨 I believe in the power of code and its ability to bring ideas to life. By constantly exploring new technologies and honing my skills, I strive to create impactful web solutions that make a difference.
 
+<div align="center">
 ### “ Code is like humor. When you have to explain it, it’s bad.” 👋
+</div>
