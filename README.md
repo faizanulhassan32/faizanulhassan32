@@ -7,7 +7,7 @@
 
 <div align="left">
   
-## Languages and Frameworks
+## Languages
 
 💻 C/C++ | Java | Python | Solidity
 
