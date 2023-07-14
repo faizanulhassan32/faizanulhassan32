@@ -6,6 +6,8 @@
 </div>
 
 <div align="left">
+
+A web developer aiming to create innovative and user-friendly digital experiences. I recently graduated from FAST Islamabad with a BSc in Computer Science.
   
 ## Languages
 
