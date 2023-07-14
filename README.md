@@ -7,7 +7,7 @@
 
 <div align="left">
 
-A web developer aiming to create innovative and user-friendly digital experiences. I recently graduated from FAST Islamabad with a BSc in Computer Science.
+A web developer aiming to create innovative and user-friendly digital experiences. I recently graduated from FAST-NUCES with a Bachelor's degree in Computer Science.
   
 ## Languages
 
