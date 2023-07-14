@@ -11,11 +11,14 @@
 
 💻 C/C++ | Java | Python | Solidity
 
+## Frameworks
+
 🌐 MERN Stack (MongoDB, Express.js, React.js, Node.js) | Flask
 
 ## Databases
 
 🗄️ MySQL | MongoDB
+
 
 🔨 I believe in the power of code and its ability to bring ideas to life. By constantly exploring new technologies and honing my skills, I strive to create impactful web solutions that make a difference.
 
