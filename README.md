@@ -1,5 +1,4 @@
 <div align="center">
-
 ### Hi, It's Faizan here 👋
 </div>
 
@@ -15,4 +14,6 @@ A web developer aiming to create innovative and user-friendly digital experience
 
 🔨 I believe in the power of code and its ability to bring ideas to life. By constantly exploring new technologies and honing my skills, I strive to create impactful web solutions that make a difference.
 
+<div align="center">
 <kbd><b>"Code is like humor. When you have to explain it, it's bad."</b></kbd> 👋
+</div>
