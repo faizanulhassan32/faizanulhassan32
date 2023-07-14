@@ -1,5 +1,7 @@
 ### Hi , Its Faizan here👋
 
+[![Profile Views](https://komarev.com/ghpvc/?username=faizanulhassan32&color=brightgreen)](https://github.com/faizanulhassan32)
+
 a web developer aiming to create innovative and user-friendly digital experiences. I recently graduated from FAST Islamabad with a BSc in Computer Science.
 
 💻 My expertise lies in a range of programming languages, including C/C++, Java, Python, and Solidity. I enjoy solving complex problems and crafting efficient solutions.
