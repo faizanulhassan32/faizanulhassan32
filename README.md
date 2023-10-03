@@ -5,6 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizanulhassan32" alt="faizanulhassan32" /></a> </p>
 
+- 🔭 I’m currently working in [Codeaza Technologies](https://codeazatechnologies.com/#)
+
+- 👨‍💻 All of my projects are available at [https://faizanulhassan32.github.io/](https://faizanulhassan32.github.io/)
+
+- 📫 How to reach me **faizanulhassan043@gmail.com**
+
+- ⚡ Fun fact **"Code is like humor. When you have to explain it, it's bad." 😄👋**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/faizan-ul-hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faizan-ul-hassan" height="30" width="40" /></a>
