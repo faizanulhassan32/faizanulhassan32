@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working in [Codeaza Technologies](https://codeazatechnologies.com/#)
 
-- 👨‍💻 All of my projects are available at [https://faizanulhassan32.github.io/](https://faizanulhassan32.github.io/)
+- 👨‍💻 My projects are available at [https://faizanulhassan32.github.io/](https://faizanulhassan32.github.io/)
 
 - 📫 How to reach me **faizanulhassan043@gmail.com**
 
