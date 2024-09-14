@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Faizan</h1>
-<h3 align="center">
+<h4 align="center">
   A web developer aiming to create innovative and user-friendly digital experiences. I've graduated from FAST-NUCES with a Bachelor's degree in Computer Science.
    Previously, I worked on developing scalable APIs, managing databases, and integrating various technologies using **Flask**, **REST APIs**, and **MySQL** along with AWS services like **S3** and **Lambda functions**.
   Currently, I’m focusing on **Generative AI**, including creating **RAG-based chatbots**, implementing **GraphRAG** techniques, and designing **Elasticsearch** solutions.
-</h3>
+</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizanulhassan32&label=Profile%20views&color=0e75b6&style=flat" alt="faizanulhassan32" /> </p>
 
