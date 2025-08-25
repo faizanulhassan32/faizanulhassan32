@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working in [TechQuest.ai](https://www.questlab.pk/)
 
-- 👨‍💻 My projects are available at [https://faizanulhassan32.github.io/](https://faizanulhassan32.github.io/)
+- 👨‍💻 My projects are available at [https://faizan-ul-hassan.framer.website/](https://faizan-ul-hassan.framer.website/)
 
 - 📫 How to reach me **faizanulhassan043@gmail.com**
 
